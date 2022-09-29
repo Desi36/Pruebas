@@ -1,4 +1,4 @@
-asignatura 1
+asignatura 1 aprovada
 asignatura 2
 asignatura 3
 asignatura 4
