@@ -1,5 +1,5 @@
-asignatura 1 aprovada!
-asignatura 2 aprovada!
+asignatura 1
+asignatura 2
 asignatura 3
 asignatura 4
-asignatura 5
+Asignatura Preadmisiva
